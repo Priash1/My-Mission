@@ -1,10 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-section{
+.flexction{
     display: flex;
     margin-top: 50px;
-    margin-left: 50px;;
+    margin-left: 200px;;
 }
 .middle{
     width: 50%;
@@ -21,6 +21,9 @@ section{
     padding-left: 10px;
     margin-bottom: 0px;
 }
+.color{
+    color: orange;
+}
 .style h2{
     font-weight: 700;
 }
@@ -31,4 +34,63 @@ section{
     color: white;
     font-weight: 500;
     border-radius: 5px;
+}
+.margin{
+    margin-left: 200px;
+}
+section h1{
+    text-align: center;
+}
+.flexction2{
+    display: flex;
+}
+.box{
+    width: 25%;
+    height: 300px;
+}
+.box img{
+    width: 35%;
+    padding: 2px;
+    padding-top: 5px;
+}
+#mission{
+    background-color: skyblue;
+    padding: 5px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+#vission{
+    background-color: rgb(243, 200, 207);
+    margin-left: 15px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+}
+#goals{
+    background-color: rgb(228, 228, 160);
+    margin-left: 15px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+}
+.image img{
+    width: 60%;
+}
+.develop{
+    text-align: justify;
+}
+.develop h1{
+    text-align: left;
+    font-weight: 900;
+}
+.develop a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
 }
