@@ -98,18 +98,19 @@ section h1{
 .image2{
     width: 100%;
 }
-.box{
-    margin-top: 100px;
-    padding-top: 10px;
-    background-color: black;
-    width: 100%;
-    height: 1in;
-    padding-bottom: 20px;
-}
+
 .color2{
     color: white;
 }
 .color3{
     color: white;
     text-align: center;
+}
+.border{
+    background-color: black;
+    width: 100%;
+    height: 1in;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
