@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .flexction{
     display: flex;
@@ -93,4 +94,22 @@ section h1{
     background-color: tomato;
     padding: 10px 20px;
     color: white;
+}
+.image2{
+    width: 100%;
+}
+.box{
+    margin-top: 100px;
+    padding-top: 10px;
+    background-color: black;
+    width: 100%;
+    height: 1in;
+    padding-bottom: 20px;
+}
+.color2{
+    color: white;
+}
+.color3{
+    color: white;
+    text-align: center;
 }
